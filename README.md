@@ -39,5 +39,3 @@
 
 
 - https://github.com/Taro-Hayashi/THQWGD001/tree/main/KiCad
-![](img/wfkw_p.jpg)
-
